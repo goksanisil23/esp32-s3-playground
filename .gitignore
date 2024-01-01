@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+# build folders
+build/
+.cache/
+
+# managed_components for examples
+managed_components
+
+# lock files for examples and components
+dependencies.lock
+
+sdkconfig
+sdkconfig.old
+.DS_Store
